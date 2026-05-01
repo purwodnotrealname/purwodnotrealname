@@ -3,7 +3,7 @@
 <p>Cause it's not. Hola, my name is Nara, and I'm anthusiast junior network engineer.</p>
 <p></p>
 
-![My Imgur Image](https://i.imgur.com/uhk8eIf.png)
+![Image description](https://i.imgur.com/CdXbMvg.png)
 
 
 
