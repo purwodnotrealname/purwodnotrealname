@@ -6,7 +6,7 @@
 
 <img align="left" alt="cisco" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV7NEjSaDHQdesy-5TRK8KZh2xuW4r2hNSzQ&s" /> 
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" /> 
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" /> 
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" /> 
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"/> 
 
 
